@@ -1,0 +1,15 @@
+footer {
+  height: 7vh;
+  padding: 0 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #a9d3e9;
+}
+footer ul {
+  display: flex;
+  gap: 1rem;
+}
+footer img {
+  width: 25px;
+}

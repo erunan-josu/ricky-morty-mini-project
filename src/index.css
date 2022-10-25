@@ -1,0 +1,29 @@
+@font-face {
+  font-family: rick-morty;
+  src: url(./assets/fonts/rickmorty.ttf);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#root {
+  background: #cbe66f;
+}
